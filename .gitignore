@@ -1,0 +1,15 @@
+.vercel
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore system files
+.DS_Store
+.env
+
+# Ignore build and distribution folders
+build/
+dist/
+
+# Ignore log files
+*.log
